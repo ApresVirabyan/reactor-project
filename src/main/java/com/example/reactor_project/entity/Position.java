@@ -15,7 +15,7 @@ import java.util.Date;
 @Data
 @Builder
 @AllArgsConstructor
-@Document(collation = "position")
+@Document(collation = "positions")
 public class Position {
 
     @Id

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "sex": "MALE",
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": "25",
+    "interests": "Reading",
+    "email": "john.doe@example.com"
+  },
+  {
+    "id": 2,
+    "sex": "FEMALE",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "age": "28",
+    "interests": "Traveling",
+    "email": "jane.doe@example.com"
+  },
+  {
+    "id": 3,
+    "sex": "MALE",
+    "firstName": "Jim",
+    "lastName": "Beam",
+    "age": "35",
+    "interests": "Cooking",
+    "email": "jim.beam@example.com"
+  },
+  {
+    "id": 4,
+    "sex": "FEMALE",
+    "firstName": "Jill",
+    "lastName": "Valentine",
+    "age": "30",
+    "interests": "Gaming",
+    "email": "jill.valentine@example.com"
+  },
+  {
+    "id": 5,
+    "sex": "MALE",
+    "firstName": "Jack",
+    "lastName": "Sparrow",
+    "age": "40",
+    "interests": "Sailing",
+    "email": "jack.sparrow@example.com"
+  },
+  {
+    "id": 6,
+    "sex": "FEMALE",
+    "firstName": "Alice",
+    "lastName": "Wonderland",
+    "age": "22",
+    "interests": "Exploring",
+    "email": "alice.wonderland@example.com"
+  },
+  {
+    "id": 7,
+    "sex": "MALE",
+    "firstName": "Bruce",
+    "lastName": "Wayne",
+    "age": "45",
+    "interests": "Fighting Crime",
+    "email": "bruce.wayne@example.com"
+  },
+  {
+    "id": 8,
+    "sex": "FEMALE",
+    "firstName": "Diana",
+    "lastName": "Prince",
+    "age": "32",
+    "interests": "Archery",
+    "email": "diana.prince@example.com"
+  },
+  {
+    "id": 9,
+    "sex": "MALE",
+    "firstName": "Clark",
+    "lastName": "Kent",
+    "age": "34",
+    "interests": "Journalism",
+    "email": "clark.kent@example.com"
+  },
+  {
+    "id": 10,
+    "sex": "FEMALE",
+    "firstName": "Lois",
+    "lastName": "Lane",
+    "age": "33",
+    "interests": "Writing",
+    "email": "lois.lane@example.com"
+  }
+]

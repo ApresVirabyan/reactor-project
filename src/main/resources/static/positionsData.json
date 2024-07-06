@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "positionName": "Software Engineer",
+    "description": "Develops and maintains software applications.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  },
+  {
+    "id": "2",
+    "positionName": "Data Scientist",
+    "description": "Analyzes and interprets complex data.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  },
+  {
+    "id": "3",
+    "positionName": "Product Manager",
+    "description": "Oversees product development and management.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  },
+  {
+    "id": "4",
+    "positionName": "UI/UX Designer",
+    "description": "Designs user interfaces and user experiences.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  },
+  {
+    "id": "5",
+    "positionName": "DevOps Engineer",
+    "description": "Manages IT infrastructure and operations.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  },
+  {
+    "id": "6",
+    "positionName": "Quality Assurance Engineer",
+    "description": "Tests and ensures the quality of software products.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  },
+  {
+    "id": "7",
+    "positionName": "System Administrator",
+    "description": "Maintains and manages IT systems.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  },
+  {
+    "id": "8",
+    "positionName": "Business Analyst",
+    "description": "Analyzes business processes and requirements.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  },
+  {
+    "id": "9",
+    "positionName": "Technical Writer",
+    "description": "Creates technical documentation and manuals.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  },
+  {
+    "id": "10",
+    "positionName": "Network Engineer",
+    "description": "Designs and manages computer networks.",
+    "createdAt": { "$date": "2023-01-01T00:00:00Z" }
+  }
+]
